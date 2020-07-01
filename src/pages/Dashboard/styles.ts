@@ -29,5 +29,9 @@ export const Form = styled.form`
     border-radius: 0px 5px 5px 0px;
     border: 0;
     color: #fff;
+    font-weight: bold;
+
+    &:hover {
+    }
   }
 `;
